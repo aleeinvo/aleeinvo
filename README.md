@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleeinvo
+- 👋 Hi, I’m Alee Dhillon
 - 👀 I’m interested in JavaScript for now
 - 🌱 I’m currently learning Mean Stack
 - 💞️ I’m looking to collaborate on JavaScript, React.js, NodeJS
